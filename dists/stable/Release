@@ -1,0 +1,30 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 04 Jun 2023 21:00:09 +0000
+Label: Ukazka dependencies APT Repository
+Suite: stable
+MD5Sum:
+ eb817f82ab2e06e4d170c816ed10067e              149 Release
+ 28dc89d20f8511ec09d5683bb841aeb7          1129145 main/Contents-amd64
+ 04f8dd1e1341cfdb1bd97c53c022d443           104764 main/Contents-amd64.gz
+ f45604c12fa2c849edff4d1add20ffb0           182698 main/binary-amd64/Packages
+ 6f7bbee5a275532267fda2e2b8ae2d50            60970 main/binary-amd64/Packages.gz
+SHA1:
+ 4e0a32ea26c8925003dafe8879eb532dd951c843              149 Release
+ 4e9ae10050215767b64cf384c4fdf008b5b4b869          1129145 main/Contents-amd64
+ f2ffe23ecca1c7939bcb000e423eaccdee3c8953           104764 main/Contents-amd64.gz
+ 12f96f0aa935a853348c436f8e319b475323a1d5           182698 main/binary-amd64/Packages
+ 0ebd51afff814901801ebd096b1c46fe63d6db51            60970 main/binary-amd64/Packages.gz
+SHA256:
+ aaa42bd4f1be9bcfe84cbd6c816750d9c47ab08955b7ecec9bb283123bed08d7              149 Release
+ bed4a9e762541ab26c1eeb93255f049696d4fa77693b6f0d05f0fc2bc72d7702          1129145 main/Contents-amd64
+ 263b373167a8e55e9dc9e92f8a51aa2b88da8542f9608fa162f939d7aca0a278           104764 main/Contents-amd64.gz
+ 94a6a43be281463dde391384203de567b7bce6202f04e876ed4d047d248cdbb7           182698 main/binary-amd64/Packages
+ 2674e588a4038460ebfaabc9ab83054569bdd1695295ccdc7e6e249d9564c966            60970 main/binary-amd64/Packages.gz
+SHA512:
+ ea7236abb0718a1646af3998f2c4f03937544fc2c53ff1a4359e64a684e6f6740a3850e80ac26c38c62c416ff1cac7f4122819d4f3feb9b8dbb9a615d68c5043              149 Release
+ d17b158ca03854ed0cb36db9dae6b85fa08ec9ead1fe7ce48e3906b309fa42d6e01223f4aa419e9de9a194e1839eeddc991850615a01f1549e5256cf4c0f0a57          1129145 main/Contents-amd64
+ 502742384d727cf3d54b364c1432475f83156a1ed0501cdddb2ad8090ffa43f40e5ce153dab7abae845c7aa3a7148b95cc1d08cb59eb933e48deb9666e012504           104764 main/Contents-amd64.gz
+ f06994d2d921dd4e63d0ba9a04db94003e2318251f63124b7ff3584f2df1c3f35ec742656b00b64acd7c93b95558559a9edd3fe1396b5bd2c66042732e79241f           182698 main/binary-amd64/Packages
+ 989f8ee9e3abd0e771a983dd3469f6f3a8279fe0866ce86ae04a535c048eac722479a4f1c8a40ae11e309b6508b103813782d4a14828c1d4ae569365983a5af7            60970 main/binary-amd64/Packages.gz
